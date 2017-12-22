@@ -1,2 +1,6 @@
 /composer.env
-/magento
+#/magento
+
+\.idea/
+
+REMOVE\.txt
